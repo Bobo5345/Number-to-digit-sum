@@ -20,7 +20,6 @@ int main()
         if (temp == -1)
          break;
         
-
         number[i] = temp;
         count++;
         temp = 0;
